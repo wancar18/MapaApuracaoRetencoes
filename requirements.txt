@@ -1,0 +1,10 @@
+# To install these dependencies, run: pip install -r requirements.txt
+pandas
+openai
+pytesseract
+pdf2image
+PyPDF2
+pyautogui
+pyperclip
+mouse
+reportlab
