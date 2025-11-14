@@ -2,6 +2,7 @@
 # The main orchestrator for the NFS-e processing application.
 import os
 import sys
+import re
 from typing import Dict, Any, List
 
 # --- Module Imports ---
